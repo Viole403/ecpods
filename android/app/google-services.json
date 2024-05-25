@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058644204081",
+    "project_id": "ecpods-982ca",
+    "storage_bucket": "ecpods-982ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058644204081:android:273deaa8a250147bd99310",
+        "android_client_info": {
+          "package_name": "com.eccono.ecpods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbE-pP-oA-7xbYwPo3eLodOLEKPnpv5QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
